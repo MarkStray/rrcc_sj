@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0201f7ae-608e-4309-b546-9a25d12f9f3a++4847",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0201f7ae-608e-4309-b546-9a25d12f9f3a++4847" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0201f7ae-608e-4309-b546-9a25d12f9f3a++4847" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8973518E-7F48-4D85-A7A5-B5A9AC8CE4E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0201f7ae-608e-4309-b546-9a25d12f9f3a++4847" : "rrcc_seller_2B\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "rrcc_sj",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "2015-11-25-V1.1.0\/rrccseller_2B\/rrcc_sj\/rrcc_sj.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.renrencaichang.com\/rrcc",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0201f7ae-608e-4309-b546-9a25d12f9f3a++4847"
+    }
+  ]
+}
